@@ -5,3 +5,5 @@ It's a guessing game, where you type in a number between 1-20 and keep trying un
 The HTML and CSS were not made by me. They were provided by the course teacher, as this course is only focused on the Javascript language. I hope someday to code the entire game by myself :)
 
 I was incredible proud of myself when finishing it for being able to code myself before the teacher finished explaining everything. Also had so much fun! That's the most important part.
+
+Oh, don't mind this line. Is just me discovering how to update the readme in git.
